@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: damoklov
 google_analytics: damoklov
-title: About threats and other stuff
+title: damoklov
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: damoklov
+      title: Threat Intel and other stuff
 
 description: Personal Blog
 author:
@@ -30,7 +30,7 @@ author:
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
-sidebar_background_image: https://www.dropbox.com/s/475npl1vjvp17wy/comp.jpg?raw=1
+sidebar_background_image: https://www.dropbox.com/s/f4y31oyziuzm4jz/sky.jpg?raw=1
 
 BASE_PATH:
 
