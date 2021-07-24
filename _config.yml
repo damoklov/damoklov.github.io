@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: damoklov
 google_analytics: damoklov
-title: damoklov
+title: About threats and other stuff
 
 defaults:
   -
@@ -30,7 +30,7 @@ author:
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
-sidebar_background_image: https://www.dropbox.com/s/krg9z6e8ozd21hk/boards.jpg?raw=1
+sidebar_background_image: https://www.dropbox.com/s/475npl1vjvp17wy/comp.jpg?raw=1
 
 BASE_PATH:
 
