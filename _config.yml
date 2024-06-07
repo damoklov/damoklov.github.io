@@ -5,9 +5,9 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: damoklov
-google_analytics: damoklov
-title: damoklov
+disqus: null
+google_analytics: null
+title: xor3r
 
 defaults:
   -
@@ -18,10 +18,10 @@ defaults:
 
 description: Personal Blog
 author:
-  name: Mykhailo Pazyniuk
+  name: Mike
   email: mishanya@protonmail.com
-  github: damoklov
-  twitter: damoklov_
+  github: xor3r
+  twitter: xor3r
   pinterest: null
   linkedin: pazyniuk
   bio: Security Engineer • CTIA
